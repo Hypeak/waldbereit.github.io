@@ -1,0 +1,542 @@
+ .u-section-1 {
+  min-height: 826px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 279px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 307px;
+  width: 1140px;
+  margin: -266px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 47px 6px 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 23px 747px 0 6px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 700px;
+  height: 289px;
+  margin: -110px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 31px 108px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-group-1 {
+    position: relative;
+    width: 940px;
+  }
+
+  .u-section-1 .u-text-1 {
+    position: relative;
+    font-weight: bold;
+    margin-right: 152px;
+    margin-left: 5px;
+  }
+
+  .u-section-1 .u-text-2 {
+    position: relative;
+    margin-right: 515px;
+    margin-left: 5px;
+  }
+
+  .u-section-1 .u-image-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 835px;
+    margin-left: 8px;
+    margin-right: 8px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 4px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
+    margin-right: 293px;
+    margin-left: 3px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 720px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 760px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 106px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 223px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 677px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 23px;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 140px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 599px;
+}
+
+.u-section-2 .u-group-1 {
+  min-height: 130px;
+  margin-top: 80px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  margin: 15px 286px 0 12px;
+}
+
+.u-section-2 .u-line-1 {
+  width: 150px;
+  transform-origin: right center 0px;
+  margin: 12px auto 0;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin: 17px 0 40px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 1028px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 0 80px 0 40px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 504px;
+  }
+
+  .u-section-2 .u-group-1 {
+    position: relative;
+  }
+
+  .u-section-2 .u-text-1 {
+    position: relative;
+    margin-top: 46px;
+    margin-right: 453px;
+    margin-left: 33px;
+  }
+
+  .u-section-2 .u-line-1 {
+    width: 123px;
+    position: relative;
+    margin-right: 314px;
+    margin-bottom: 46px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    position: relative;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 158px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .u-section-2 .u-text-2 {
+    position: relative;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
+  .u-section-2 .u-line-1 {
+    width: 95px;
+    margin-right: 143px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 13px;
+    margin-right: 13px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 607px;
+  }
+
+  .u-section-2 .u-group-1 {
+    min-height: 172px;
+    margin-top: 34px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 431px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-line-1 {
+    width: 89px;
+    margin-top: 28px;
+    margin-right: auto;
+    margin-bottom: 0;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-bottom: 54px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 230px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 9px;
+    padding-right: 9px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-group-1 {
+    margin-top: 47px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 12px;
+    margin-right: 12px;
+    width: auto;
+  }
+
+  .u-section-2 .u-line-1 {
+    width: 74px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    margin-top: 27px;
+    margin-bottom: 50px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 330px;
+  }
+
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+} .u-section-3 {
+  min-height: 680px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-image-1 {
+  background-image: url("images/SolarGeneratorHausmitStromversorgen.png");
+  min-height: 700px;
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-image-2 {
+  background-image: url("images/SolargeneratorWaldbereit.jpg");
+  min-height: 700px;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+   .u-section-3 {
+    min-height: 507px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    position: relative;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 527px;
+  }
+
+  .u-section-3 .u-image-2 {
+    min-height: 527px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 814px;
+}
+
+.u-section-4 .u-group-1 {
+  width: 1048px;
+  min-height: 139px;
+  height: auto;
+  margin: 67px auto 0 0;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 23px 215px 0 26px;
+}
+
+.u-section-4 .u-line-1 {
+  width: 150px;
+  transform-origin: right center 0px;
+  margin: 30px auto 0 400px;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 30px 706px 60px 0;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-3 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-4 .u-btn-4 {
+  background-image: none;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-group-1 {
+    width: 864px;
+    position: relative;
+    height: auto;
+  }
+
+  .u-section-4 .u-text-1 {
+    position: relative;
+    margin-right: 297px;
+    margin-left: 16px;
+  }
+
+  .u-section-4 .u-line-1 {
+    width: 124px;
+    position: relative;
+    margin-right: 143px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 506px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-group-1 {
+    width: 662px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-right: 130px;
+    margin-left: 13px;
+  }
+
+  .u-section-4 .u-line-1 {
+    width: 95px;
+    margin-right: 22px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 286px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-group-1 {
+    min-height: 259px;
+    margin-top: 74px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 314px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-line-1 {
+    width: 89px;
+    margin-left: 390px;
+    margin-right: auto;
+    margin-bottom: 25px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 106px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-group-1 {
+    min-height: 178px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 20px;
+    margin-left: 13px;
+    margin-right: 13px;
+    font-size: 2.25rem;
+    width: auto;
+  }
+
+  .u-section-4 .u-line-1 {
+    width: 75px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 190px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 0;
+  }
+}

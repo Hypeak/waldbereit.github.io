@@ -1,0 +1,457 @@
+ .u-section-1 {
+  min-height: 929px;
+}
+
+.u-section-1 .u-shape-1 {
+  height: 279px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 307px;
+  width: 1140px;
+  height: auto;
+  margin: -268px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 47px 6px 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 23px 747px 0 6px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 760px;
+  height: 435px;
+  margin: -100px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 10px 50px 11px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-group-1 {
+    position: relative;
+    width: 940px;
+    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    position: relative;
+    font-weight: bold;
+    margin-right: 152px;
+    margin-left: 5px;
+  }
+
+  .u-section-1 .u-text-2 {
+    position: relative;
+    margin-right: 515px;
+    margin-left: 5px;
+  }
+
+  .u-section-1 .u-image-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 835px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 906px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 4px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
+    margin-right: 293px;
+    margin-left: 3px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 412px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 803px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 106px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 309px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 689px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 2px;
+    margin-right: 2px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 23px;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 195px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 404px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 60px 0;
+}.u-section-3 .u-sheet-1 {
+  min-height: 290px;
+}
+
+.u-section-3 .u-group-1 {
+  min-height: 130px;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3rem;
+  margin: 15px 286px 0 12px;
+}
+
+.u-section-3 .u-line-1 {
+  width: 150px;
+  transform-origin: right center 0px;
+  margin: 12px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 504px;
+  }
+
+  .u-section-3 .u-group-1 {
+    position: relative;
+  }
+
+  .u-section-3 .u-text-1 {
+    position: relative;
+    margin-top: 46px;
+    margin-right: 453px;
+    margin-left: 33px;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 123px;
+    position: relative;
+    margin-right: 314px;
+    margin-bottom: 46px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 95px;
+    margin-right: 143px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 607px;
+  }
+
+  .u-section-3 .u-group-1 {
+    min-height: 172px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: 431px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 89px;
+    margin-top: 28px;
+    margin-right: auto;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: 12px;
+    margin-right: 12px;
+    width: auto;
+  }
+
+  .u-section-3 .u-line-1 {
+    width: 74px;
+  }
+} .u-section-4 {
+  min-height: 680px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-image-1 {
+  background-image: url("images/CampingKcheKochenAusrstungZubehrUtensilien.png");
+  min-height: 700px;
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-image-2 {
+  background-image: url("images/BesteCampingKcheOutdoorKchenblockKchenmodulTest.png");
+  min-height: 700px;
+  background-position: 50% 50%;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    min-height: 507px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    position: relative;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 527px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 527px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 814px;
+}
+
+.u-section-5 .u-group-1 {
+  width: 1048px;
+  min-height: 139px;
+  margin: 67px auto 0 0;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-5 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 23px 26px 0;
+}
+
+.u-section-5 .u-line-1 {
+  width: 150px;
+  transform-origin: right center 0px;
+  margin: 30px auto 0 400px;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 30px auto 0 15px;
+}
+
+.u-section-5 .u-btn-1 {
+  background-image: none;
+  font-size: 1.5rem;
+  padding: 0;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 20px auto 0 15px;
+}
+
+.u-section-5 .u-btn-2 {
+  background-image: none;
+  font-size: 1.5rem;
+  padding: 0;
+}
+
+.u-section-5 .u-text-4 {
+  margin: 20px auto 0 15px;
+}
+
+.u-section-5 .u-btn-3 {
+  background-image: none;
+  font-size: 1.5rem;
+  padding: 0;
+}
+
+.u-section-5 .u-text-5 {
+  margin: 20px auto 60px 15px;
+}
+
+.u-section-5 .u-btn-4 {
+  background-image: none;
+  font-size: 1.5rem;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-group-1 {
+    width: 864px;
+    position: relative;
+  }
+
+  .u-section-5 .u-text-1 {
+    position: relative;
+    margin-right: 297px;
+    margin-left: 16px;
+  }
+
+  .u-section-5 .u-line-1 {
+    width: 124px;
+    position: relative;
+    margin-right: 143px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-group-1 {
+    width: 662px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 130px;
+    margin-left: 13px;
+  }
+
+  .u-section-5 .u-line-1 {
+    width: 95px;
+    margin-right: 22px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-group-1 {
+    min-height: 259px;
+    margin-top: 74px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: 314px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-5 .u-line-1 {
+    width: 89px;
+    margin-left: 390px;
+    margin-right: auto;
+    margin-bottom: 25px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-group-1 {
+    min-height: 178px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: 20px;
+    margin-left: 13px;
+    margin-right: 13px;
+    font-size: 2.25rem;
+    width: auto;
+  }
+
+  .u-section-5 .u-line-1 {
+    width: 75px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 190px;
+  }
+}
